@@ -56,9 +56,9 @@
 - 核心用户：18~25岁的对穿衣搭配感兴趣的大学生
 - 主要用户：26~40岁之间的对穿衣搭配感兴趣的年轻上班族
 ### 2.用户画像及使用场景
-![https://upload-images.jianshu.io/upload_images/15591217-c3c55f49a14d65a0.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/959/format/webp](https://upload-images.jianshu.io/upload_images/15591217-c3c55f49a14d65a0.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/959/format/webp)
+![https://upload-images.jianshu.io/upload_images/15591217-982ef42bb84a0095.png?imageMogr2/auto-orient/strip|imageView2/2/w/550/format/webp](https://upload-images.jianshu.io/upload_images/15591217-982ef42bb84a0095.png?imageMogr2/auto-orient/strip|imageView2/2/w/550/format/webp)
 用户场景：小薇是在校的女大学生，最近想买一件红色碎花法式上衣但不知道和自己的白色牛仔裤是否搭配，怕自己没有衣物搭配。打开“花样衣橱”APP，导入碎花上衣图片，自由组合单品创建拼图，发现非常合适，于是决定购买。
-![https://upload-images.jianshu.io/upload_images/15591217-8d4b670aab6533a0.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1080/format/webp](https://upload-images.jianshu.io/upload_images/15591217-8d4b670aab6533a0.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1080/format/webp)
+![https://upload-images.jianshu.io/upload_images/15591217-6e2a178f54d69df6.png?imageMogr2/auto-orient/strip|imageView2/2/w/552/format/webp](https://upload-images.jianshu.io/upload_images/15591217-6e2a178f54d69df6.png?imageMogr2/auto-orient/strip|imageView2/2/w/552/format/webp)
 用户场景：Joey是刚毕业3年的白领，每天上班的早上穿好衣服后，打开“花样衣橱”APP记录每日穿搭，并生成图片随手分享给闺蜜，也可以作为日后灵感参考。
 ## 三、竞品分析
 
